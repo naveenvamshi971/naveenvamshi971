@@ -2,8 +2,7 @@
 
 ### Hi there 👋
  
-- 🔭 I’m currently working on Deep Learning Project 
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on Automation 
 - 💬 Ask me about anything. I would love to help.
-- 📫 How to reach me: Portfolio Coming Soon, till then https://www.linkedin.com/in/naveen-vamshi-362110169/
+- 📫 LinkedIn: https://www.linkedin.com/in/naveen-vamshi-362110169/
  
